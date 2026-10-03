@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glass Launcher</string>
+
+    <!-- Home widgets -->
+    <string name="widget_weather_city">Jakarta</string>
+    <string name="widget_weather_unavailable">Cuaca tidak tersedia</string>
+    <string name="widget_weather_retry">Coba lagi</string>
+
+    <!-- Dock content descriptions -->
+    <string name="dock_phone">Telepon</string>
+    <string name="dock_messages">Pesan</string>
+    <string name="dock_camera">Kamera</string>
+    <string name="dock_browser">Browser</string>
+
+    <string name="page_indicator_desc">Halaman %1$d dari %2$d</string>
+</resources>

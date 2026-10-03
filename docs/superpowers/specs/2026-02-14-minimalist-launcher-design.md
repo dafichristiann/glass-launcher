@@ -1,7 +1,12 @@
 # Minimalist Launcher — Design Spec (M0–M2)
 
+> **⚠️ SUPERSEDED — 2026-02-14.** This spec describes an obsolete design ("Minimalist Launcher",
+> flat light-blue palette, base `#9CD4DB`). It has been replaced by `prd/PRD_Glass_Launcher.md`
+> (the Glass Launcher PRD) together with the design in `untitled.pen`. **Do not build from this
+> document.** It is kept only for history. See the PRD and `.pen` for the current source of truth.
+
 **Date:** 2026-02-14
-**Status:** Approved (design), pending written-spec review
+**Status:** Superseded — replaced by `prd/PRD_Glass_Launcher.md` + `untitled.pen`
 **Scope of this cycle:** M0–M2 (project setup, HOME registration, home pager + dock + drawer, outline icons, three widgets)
 **Platform:** Android 8.0+ (minSdk 26), targetSdk 35
 **Language/UI:** Kotlin, Jetpack Compose
